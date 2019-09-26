@@ -1,6 +1,6 @@
 ---
-title: "OSCE Study Plan"
+title: "Cracking the Perimeter"
 date: 2017-03-10 12:00:00
-share: true
-comments: true
+Enddate: 2017-03-10 12:00:00
+
 ---
